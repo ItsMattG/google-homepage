@@ -1,4 +1,3 @@
 <h1>Google Homepage<h1>
-<hr>
-<p>Google homepage clone created with HTML and CSS<p>
+Google homepage clone created with HTML and CSS
 <a href="#">Live Demo</a>
