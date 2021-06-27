@@ -1,3 +1,5 @@
-<h1>Google Homepage<h1>
-Google homepage clone created with HTML and CSS
-<a href="#">Live Demo</a>
+# Google Homepage
+
+Google homepage clone created with HTML and CSS.
+
+[Live Demo](https://michalosman.github.io/google-homepage/) :point_left:
